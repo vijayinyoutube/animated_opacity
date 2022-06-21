@@ -43,6 +43,8 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Output 
 
+Video 👉 : [sample result video](https://raw.githubusercontent.com/vijayinyoutube/animated_opacity/master/My%20Movie.mp4)
+
 #1 | #2 | #3 |
 --- | --- | --- |
 <img src='https://user-images.githubusercontent.com/58719230/174654696-a3466606-aad7-46aa-ab6b-670faa0dfca4.png' width=250 height=500> | <img src='https://user-images.githubusercontent.com/58719230/174655109-5c3fba30-0eb4-43e7-8f9e-ea4a3d1efd93.png' width=250 height=500> | <img src='https://user-images.githubusercontent.com/58719230/174654713-28e7d732-6cd1-4cd9-9b33-18a4df2a8ac2.png' width=250 height=500>
